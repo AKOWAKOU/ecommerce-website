@@ -27,7 +27,7 @@ git clone git@github.com:AKOWAKOU/ecommerce-website.git
 
 ## Contact
 
-If you want to contact me you can reach me at [Twitter](https://www.twitter.com/).
+If you want to contact me you can reach me at [Twitter](https://www.linkedin.com/).
 
 ## License
 
